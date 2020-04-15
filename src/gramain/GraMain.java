@@ -1,4 +1,6 @@
 //komentarz adama 
+// komentarz2
+
 package gramain;
 
 import javax.swing.JFrame;

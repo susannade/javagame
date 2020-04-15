@@ -1,5 +1,6 @@
 //komentarz adama 
 // komentarz2
+// do3razysztuka
 
 package gramain;
 
